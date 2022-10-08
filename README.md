@@ -8,7 +8,7 @@ Im a Web Devolper that works on everything from e-commerce to plain static sites
 
 * 🌍  I'm based in United States
 * ✉️  You can contact me at [paschoudv@gmail.com](mailto:paschoudv@gmail.com)
-* 🧠  I'm learning GO, and React.
+* 🧠  I'm learning GO, React and how to be a better devolper .
 * 🤝  I'm open to collaborating on Anything new or anything I can grow and learn on
 
 ### Skills
